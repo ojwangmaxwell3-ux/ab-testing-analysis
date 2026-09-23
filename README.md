@@ -46,8 +46,8 @@ Determine whether the new landing page significantly improves the conversion rat
 
 | # | Research Question | Test | Statistic | p-value | Decision |
 |---|-------------------|------|-----------|---------|----------|
-| 1 | Time spent: new vs old page | Two-sample t-test | t = 3.787 | **0.00013** | Reject H₀ |
-| 2 | Conversion rate: new vs old page | Two-proportion z-test | z = 2.408 | **0.00803** | Reject H₀ |
+| 1 | Time spent: new vs old page | Two-sample t-test | t = 5.244 | **<0.00001** | Reject H₀ |
+| 2 | Conversion rate: new vs old page | Two-proportion z-test | z = 2.408 | **0.01605** | Reject H₀ |
 | 3 | Conversion vs preferred language | Chi-square | χ² = 3.093 | 0.213 | Fail to reject H₀ |
 | 4 | Time spent by language (new page) | One-way ANOVA | F = 0.854 | 0.432 | Fail to reject H₀ |
 
