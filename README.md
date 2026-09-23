@@ -61,6 +61,20 @@ Determine whether the new landing page significantly improves the conversion rat
 
 **Ship the new landing page.** Both primary metrics — time-on-page and conversion rate — show statistically significant improvements, and neither improvement is confounded by user language.
 
+## 📊 Visualizations
+
+### Conversion Rate: Old vs New Page
+![Conversion rate](images/conversion_by_page.png)
+
+### Time on Page: Old vs New
+![Time on page](images/time_on_page.png)
+
+### Conversion Rate by Language and Page
+![Conversion by language](images/conversion_by_language.png)
+
+### Distribution of Time Spent
+![Time distribution](images/time_distribution.png)
+
 ## 📁 Project Structure
 
 ```
